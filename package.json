@@ -1,0 +1,21 @@
+{
+  "name": "climbdir",
+  "version": "1.0.0",
+  "description": "A utility function to climb the directory heirarchy.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/delta911ee/climbDir.git"
+  },
+  "keywords": [
+    "climbdir"
+  ],
+  "author": "Delta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/delta911ee/climbDir/issues"
+  },
+  "homepage": "https://github.com/delta911ee/climbDir#readme"
+}
