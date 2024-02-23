@@ -4,7 +4,7 @@ path: String, the path to be modified.
 level: int, levels to be climbed.
 */
 
-function climbDir(path, level){
+function climbdir(path, level){
     let items = path.split("\\");
     let result = '';
 
@@ -23,4 +23,4 @@ function climbDir(path, level){
     return result;
 }
 
-module.exports = climbDir;
+module.exports = climbdir;
